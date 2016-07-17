@@ -1,0 +1,438 @@
+{
+  "skills": [
+    {
+      "skillName": "L-sit",
+      "elementGroup": "Strength Hold",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Strength/L-sit-A.png"
+    },
+    {
+      "skillName": "V-sit",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/V-sit-B.png"
+    },
+    {
+      "skillName": "Inverted Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Inverted Cross-C.png"
+    },
+    {
+      "skillName": "Inverted Cross Press Handstand",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Inverted Cross Press Handstand-D.png"
+    },
+    {
+      "skillName": "Back Lever",
+      "elementGroup": "Strength Hold",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Strength/Back Lever-A.png"
+    },
+    {
+      "skillName": "Straddle Planche",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Straddle Planche-B.png"
+    },
+    {
+      "skillName": "Full Planche",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Full Planche-C.png"
+    },
+    {
+      "skillName": "Maltese",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Maltese-D.png"
+    },
+    {
+      "skillName": "Victorian",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Victorian-E.png"
+    },
+    {
+      "skillName": "Front Lever",
+      "elementGroup": "Strength Hold",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Strength/Front Lever-A.png"
+    },
+    {
+      "skillName": "Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Cross-B.png"
+    },
+    {
+      "skillName": "V-Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/V-Cross-C.png"
+    },
+    {
+      "skillName": "Bent Arm Bent Body Press",
+      "elementGroup": "Strength Hold",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Strength/Bent Arm Bent Body Press-A.png"
+    },
+    {
+      "skillName": "Press Handstand",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Press Handstand-B.png"
+    },
+    {
+      "skillName": "Straight Body Straight Arm Press",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Straight Body Straight Arm Press-C.png"
+    },
+    {
+      "skillName": "Maltese Press Handstand",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Maltese Press Handstand-D.png"
+    },
+    {
+      "skillName": "Petrounias",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Petrounias-E.png"
+    },
+    {
+      "skillName": "Slow Roll Forward Piked to Support",
+      "elementGroup": "Strength Hold",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Strength/Slow Roll Forward Piked to Support-A.png"
+    },
+    {
+      "skillName": "Slow Roll Forward Stretched to Support",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Slow Roll Forward Stretched to Support-B.png"
+    },
+    {
+      "skillName": "Roll Forward Stretched with Straight Arms to Handstand",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Roll Forward Stretched with Straight Arms to Handstand-C.png"
+    },
+    {
+      "skillName": "Roll Forward to Inverted Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Roll Forward to Inverted Cross-D.png"
+    },
+    {
+      "skillName": "Tay",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Tay-E.png"
+    },
+    {
+      "skillName": "Roll Forward to Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Roll Forward to Cross-C.png"
+    },
+    {
+      "skillName": "Pineda",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Pineda-D.png"
+    },
+    {
+      "skillName": "Bhavsar",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Bhavsar-E.png"
+    },
+    {
+      "skillName": "Zahran",
+      "elementGroup": "Strength Hold",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Strength/Zahran-F.png"
+    },
+    {
+      "skillName": "Tsukahara2",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Tsukahara2-E.png"
+    },
+    {
+      "skillName": "Roll Backwards to L-sit",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Roll Backwards to L-sit-B.png"
+    },
+    {
+      "skillName": "Vertical Pull with Bent Arms to Back Lever",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Vertical Pull with Bent Arms to Back Lever-B.png"
+    },
+    {
+      "skillName": "Vertical Pull Straight Arms to Back Lever",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Vertical Pull Straight Arms to Back Lever-C.png"
+    },
+    {
+      "skillName": "Azarian Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Azarian Cross-D.png"
+    },
+    {
+      "skillName": "Cross to Back Lever",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Cross to Back Lever-B.png"
+    },
+    {
+      "skillName": "Pull Straight Arms to Support",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Pull Straight Arms to Support-C.png"
+    },
+    {
+      "skillName": "Nakayama 2",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Nakayama-D.png"
+    },
+    {
+      "skillName": "NG Kiu Chung",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/NG Kiu Chung-E.png"
+    },
+    {
+      "skillName": "Handstand Lower to Back Lever",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Handstand Lower to Back Lever-B.png"
+    },
+    {
+      "skillName": "Li Xiaoshuang",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Li Xiaoshuang-C.png"
+    },
+    {
+      "skillName": "Butterfly",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Butterfly-D.png"
+    },
+    {
+      "skillName": "Van Gelder",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Van Gelder-E.png"
+    },
+    {
+      "skillName": "Handstand to Inverted Hang",
+      "elementGroup": "Strength Hold",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Strength/Handstand to Inverted Hang-B.png"
+    },
+    {
+      "skillName": "Maltese Press to Full Planche",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Maltese Press to Full Planche-D.png"
+    },
+    {
+      "skillName": "Maltese bounce Maltese",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Maltese bounce Maltese-E.png"
+    },
+    {
+      "skillName": "Zanetti",
+      "elementGroup": "Strength Hold",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Strength/Zanetti-F.png"
+    },
+    {
+      "skillName": "L-sit Press Inverted Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/L-sit Press Inverted Cross-C.png"
+    },
+    {
+      "skillName": "Cross Bent Press Inverted Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Cross Bent Press Inverted Cross-D.png"
+    },
+    {
+      "skillName": "Cross Straight Press Inverted Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Cross Straight Press Inverted Cross-E.png"
+    },
+    {
+      "skillName": "Cross Press L-sit",
+      "elementGroup": "Strength Hold",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Strength/Cross Press L-sit-C.png"
+    },
+    {
+      "skillName": "Full Planche Press Inverted Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Full Planche Press Inverted Cross-D.png"
+    },
+    {
+      "skillName": "Maltese Press Inverted Cross",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Maltese Press Inverted Cross-E.png"
+    },
+    {
+      "skillName": "Cross Press Planche",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Cross Press Planche-D.png"
+    },
+    {
+      "skillName": "Cross Press Maltese",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Cross Press Maltese-E.png"
+    },
+    {
+      "skillName": "Vorobiov",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Vorobiov-D.png"
+    },
+    {
+      "skillName": "Jotchev",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Jotchev-E.png"
+    },
+    {
+      "skillName": "Yan Mijayoung",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Yan Mijayoung-E.png"
+    },
+    {
+      "skillName": "Azarian Maltese",
+      "elementGroup": "Strength Hold",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Strength/Azarian Maltese-F.png"
+    },
+    {
+      "skillName": "Ng Kiu Chung 2",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Ng Kiu Chung 2-D.png"
+    },
+    {
+      "skillName": "Balandin 1",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Balandin 1-E.png"
+    },
+    {
+      "skillName": "Tulloch",
+      "elementGroup": "Strength Hold",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Strength/Tulloch-F.png"
+    },
+    {
+      "skillName": "Davtyan",
+      "elementGroup": "Strength Hold",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Strength/Davtyan-D.png"
+    },
+    {
+      "skillName": "Balandin 2",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Balandin 2-E.png"
+    },
+    {
+      "skillName": "Carmona",
+      "elementGroup": "Strength Hold",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Strength/Carmona-F.png"
+    },
+    {
+      "skillName": "Wynn",
+      "elementGroup": "Strength Hold",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Strength/Wynn-E.png"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "skills": [
+    {
+      "skillName": "Front Uprise Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Front Uprise Cross-C.png"
+    },
+    {
+      "skillName": "Rodrigues",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Swing_to_Strength/Rodrigues-F.png"
+    },
+    {
+      "skillName": "Front Uprise V-sit",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Front Uprise V-sit-C.png"
+    },
+    {
+      "skillName": "Li Ning 2 to Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Li Ning 2 to Cross-D.png"
+    },
+    {
+      "skillName": "Li Ning to Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Li Ning to Cross-C.png"
+    },
+    {
+      "skillName": "Tsukahara",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Swing_to_Strength/Tsukahara-E.png"
+    },
+    {
+      "skillName": "Felge Upward to Straddle Planche",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Felge Upward to Straddle Planche-C.png"
+    },
+    {
+      "skillName": "Felge Upward to Full Planche",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Felge Upward to Full Planche-D.png"
+    },
+    {
+      "skillName": "Felge Upward to Maltese",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Swing_to_Strength/Felge Upward to Maltese-E.png"
+    },
+    {
+      "skillName": "Felge Upward Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Felge Upward Cross-C.png"
+    },
+    {
+      "skillName": "Felge Upward Inverted Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Felge Upward Inverted Cross-D.png"
+    },
+    {
+      "skillName": "Back Uprise Straddle Planche",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Back Uprise Straddle Planche-C.png"
+    },
+    {
+      "skillName": "Back Uprise Full Planche",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Back Uprise Full Planche-D.png"
+    },
+    {
+      "skillName": "Back Uprise Maltese",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Swing_to_Strength/Back Uprise Maltese-E.png"
+    },
+    {
+      "skillName": "Back Uprise Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Back Uprise Cross-C.png"
+    },
+    {
+      "skillName": "Whip it Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Whip it Cross-D.png"
+    },
+    {
+      "skillName": "Whip it V-Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Swing_to_Strength/Whip it V-Cross-E.png"
+    },
+    {
+      "skillName": "Kip Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Kip Cross-C.png"
+    },
+    {
+      "skillName": "Swing Back to Whip It Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Swing Back to Whip It Cross-D.png"
+    },
+    {
+      "skillName": "Kip V-Sit",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Kip V-Sit-C.png"
+    },
+    {
+      "skillName": "Back Uprise Inverted Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Back Uprise Inverted Cross-D.png"
+    },
+    {
+      "skillName": "Kip Victorian",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Swing_to_Strength/Kip Victorian-F.png"
+    },
+    {
+      "skillName": "Back Kip Straddle Planche",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Back Kip Straddle Planche-C.png"
+    },
+    {
+      "skillName": "Back Kip Full Planche",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Back Kip Full Planche-D.png"
+    },
+    {
+      "skillName": "Back Kip Maltese",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Swing_to_Strength/Back Kip Maltese-E.png"
+    },
+    {
+      "skillName": "Back Kip Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Strength/Back Kip Cross-C.png"
+    },
+    {
+      "skillName": "Back Kip Inverted Cross",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Back Kip Inverted Cross-D.png"
+    },
+    {
+      "skillName": "Molinari",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Molinari-D.png"
+    },
+    {
+      "skillName": "Felge Backwards to Full Planche",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Felge Backwards to Full Planche-D.png"
+    },
+    {
+      "skillName": "Kato",
+      "elementGroup": "Swing to Strength",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Strength/Kato-D.png"
+    }
+  ]
+}

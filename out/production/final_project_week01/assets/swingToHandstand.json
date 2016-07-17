@@ -1,0 +1,46 @@
+{
+  "skills": [
+    {
+      "skillName": "Back Giant",
+      "elementGroup": "Swing to Handstand",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Handstand/Back Giant-C.png"
+    },
+    {
+      "skillName": "Back Kip to Handstand",
+      "elementGroup": "Swing to Handstand",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Swing_to_Handstand/Back Kip to Handstand-B.png"
+    },
+    {
+      "skillName": "Front Giant",
+      "elementGroup": "Swing to Handstand",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Handstand/Front Giant-C.png"
+    },
+    {
+      "skillName": "Honma Stretched to Handstand",
+      "elementGroup": "Swing to Handstand",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Swing_to_Handstand/Honma Stretched to Handstand-D.png"
+    },
+    {
+      "skillName": "Honma to Handstand",
+      "elementGroup": "Swing to Handstand",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Swing_to_Handstand/Honma to Handstand-C.png"
+    },
+    {
+      "skillName": "Support Swing Back to Handstand",
+      "elementGroup": "Swing to Handstand",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Swing_to_Handstand/Support Swing Back to Handstand-B.png"
+    },
+  ]
+}

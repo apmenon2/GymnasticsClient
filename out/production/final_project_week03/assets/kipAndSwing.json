@@ -1,0 +1,249 @@
+{
+  "skills": [
+    {
+      "skillName": "Support Roll Backwards to Support",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Support Roll Backward to Support-A.png"
+    },
+    {
+      "skillName": "Support Swing Roll Forward to Support",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Kip_and_Swing/Support Swing Roll Forward to Support-C.png"
+    },
+    {
+      "skillName": "Back Uprise Straddle L-sit",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Back Uprise Straddle L-B.png"
+    },
+    {
+      "skillName": "Forward Support Swing to Back Swing Hang",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Forward Supp-swing to Back Swing Hang-A.png"
+    },
+    {
+      "skillName": "Back Kip Straight Support",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Back Kip Straight Support-B.png"
+    },
+    {
+      "skillName": "Back Kip Bent Support",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Back Kip Bent Support-A.png"
+    },
+    {
+      "skillName": "Kip to L-sit",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Kip to L-sit-B.png"
+    },
+    {
+      "skillName": "Kip Support",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Kip Support-A.png"
+    },
+    {
+      "skillName": "Jonasson",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Kip_and_Swing/Jonasson-D.png"
+    },
+    {
+      "skillName": "Yamawaki",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Kip_and_Swing/Yamawaki-C.png"
+    },
+    {
+      "skillName": "Back Kip Straight Support",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Back Kip Straight Support-B.png"
+    },
+    {
+      "skillName": "Slow Inlocate",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Slow Inlocate-A.png"
+    },
+    {
+      "skillName": "Honma Stretched",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Kip_and_Swing/Honma Stretched-C.png"
+    },
+    {
+      "skillName": "Honma",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Honma-B.png"
+    },
+    {
+      "skillName": "Inlocate",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Inlocate-A.png"
+    },
+    {
+      "skillName": "Back Through Giant",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Back Through Giant-B.png"
+    },
+    {
+      "skillName": "Back Uprise",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Back Uprise-A.png"
+    },
+    {
+      "skillName": "Guczoghy Stretched to Li Ning",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Kip_and_Swing/Guczoghy Stretched to Li Ning-E.png"
+    },
+    {
+      "skillName": "Guczoghy Pike to Li Ning",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Kip_and_Swing/Guczoghy Pike to Li Ning-D.png"
+    },
+    {
+      "skillName": "Guczoghy Tuck To Li Ning",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Kip_and_Swing/Guczoghy Tuck To Li Ning-C.png"
+    },
+    {
+      "skillName": "Deltchev",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Deltchev-B.png"
+    },
+    {
+      "skillName": "Dislocate",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Dislocate-A.png"
+    },
+    {
+      "skillName": "O'Neill-E",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Kip_and_Swing/O'Neill-E.png"
+    },
+    {
+      "skillName": "Pike Guczoghy",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Kip_and_Swing/Pike Guczoghy-D.png"
+    },
+    {
+      "skillName": "Guczoghy",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Kip_and_Swing/Guczoghy-C.png"
+    },
+    {
+      "skillName": "Through Giant",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Through Giant-B.png"
+    },
+    {
+      "skillName": "Forward Roll Support",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Forward Roll Support-A.png"
+    },
+    {
+      "skillName": "LiNing2",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Kip_and_Swing/LiNing2-C.png"
+    },
+    {
+      "skillName": "LiNing1",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/LiNing1-B.png"
+    },
+    {
+      "skillName": "Csollany",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Csollany-B.png"
+    },
+    {
+      "skillName": "Nakayama 1",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/Nakayama-A.png"
+    },
+    {
+      "skillName": "Support Swing Backwards To Back Swing-A",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/SuppSwingBwdToBwdSwing-A.png"
+    },
+    {
+      "skillName": "Chechi",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/Chechi-B.png"
+    },
+    {
+      "skillName": "Forward Uprise L-sit",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Kip_and_Swing/ForwardUpriseL-B.png"
+    },
+    {
+      "skillName": "Forward Uprise",
+      "elementGroup": "Kip and Swing",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Kip_and_Swing/ForwardUprise-A.png"
+    }
+  ]
+}

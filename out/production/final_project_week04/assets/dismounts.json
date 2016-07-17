@@ -1,0 +1,172 @@
+{
+  "skills": [
+    {
+      "skillName": "Back Off Lay 1/2 or Full",
+      "elementGroup": "Dismount",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Dismounts/Back Off Lay 1.2 or Full-B.png"
+    },
+    {
+      "skillName": "Back Off Lay 2 or 3/2",
+      "elementGroup": "Dismount",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Dismounts/Back Off Lay 2 or 3.2-C .png"
+    },
+    {
+      "skillName": "Back Off Lay 3",
+      "elementGroup": "Dismount",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Dismounts/Back Off Lay 3-E.png"
+    },
+    {
+      "skillName": "Back Off Pike or Lay",
+      "elementGroup": "Dismount",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Dismounts/Back Off Pike or Lay-A.png"
+    },
+    {
+      "skillName": "Back Uprise Back Off Lay 1/2",
+      "elementGroup": "Dismount",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Dismounts/Back Uprise Back Off Lay 1.2-C.png"
+    },
+    {
+      "skillName": "Back Uprise Back Off Pike or Lay",
+      "elementGroup": "Dismount",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Dismounts/Back Uprise Back Off Pike or Lay-B.png"
+    },
+    {
+      "skillName": "Back Uprise Back Off",
+      "elementGroup": "Dismount",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Dismounts/Back Uprise Back Off-A.png"
+    },
+    {
+      "skillName": "Double Back Lay 1/2 or Full",
+      "elementGroup": "Dismount",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Dismounts/Double Back Lay 1.2 or Full-D.png"
+    },
+    {
+      "skillName": "Double Back Lay 3/2 or 2",
+      "elementGroup": "Dismount",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Dismounts/Double Back Lay 3.2 or 2-F.png"
+    },
+    {
+      "skillName": "Double Back Lay",
+      "elementGroup": "Dismount",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Dismounts/Double Back Lay-C.png"
+    },
+    {
+      "skillName": "Double Back Tuck 2",
+      "elementGroup": "Dismount",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Dismounts/Double Back Tuck 2-E.png"
+    },
+    {
+      "skillName": "Double Back Tuck 3/2",
+      "elementGroup": "Dismount",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Dismounts/Double Back Tuck 3.2-D.png"
+    },
+    {
+      "skillName": "Double Back Tuck Full",
+      "elementGroup": "Dismount",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Dismounts/Double Back Tuck Full-C.png"
+    },
+    {
+      "skillName": "Double Back",
+      "elementGroup": "Dismount",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Dismounts/Double Back-B.png"
+    },
+    {
+      "skillName": "Double Front 3/2",
+      "elementGroup": "Dismount",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Dismounts/Double Front 3.2-D.png"
+    },
+    {
+      "skillName": "Double Front or 1/2",
+      "elementGroup": "Dismount",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Dismounts/Double Front or 1.2-C.png"
+    },
+    {
+      "skillName": "Double Front Pike 3/2",
+      "elementGroup": "Dismount",
+      "letterScore": "E",
+      "score": 0.5,
+      "img_path": "Dismounts/Double Front Pike 3.2-E.png"
+    },
+    {
+      "skillName": "Double Front Pike or 1/2",
+      "elementGroup": "Dismount",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Dismounts/Double Front Pike or 1.2-D.png"
+    },
+    {
+      "skillName": "Front Off Pike or Lay 1/2",
+      "elementGroup": "Dismount",
+      "letterScore": "B",
+      "score": 0.2,
+      "img_path": "Dismounts/Front Off Pike or Lay 1.2-B.png"
+    },
+    {
+      "skillName": "Front Off Pike or Lay 2",
+      "elementGroup": "Dismount",
+      "letterScore": "D",
+      "score": 0.4,
+      "img_path": "Dismounts/Front Off Pike or Lay 2-D.png"
+    },
+    {
+      "skillName": "Front Off Pike or Lay Full or 3/2",
+      "elementGroup": "Dismount",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Dismounts/Front Off Pike or Lay Full or 3.2-C.png"
+    },
+    {
+      "skillName": "Front Off Pike or Lay",
+      "elementGroup": "Dismount",
+      "letterScore": "A",
+      "score": 0.1,
+      "img_path": "Dismounts/Front Off Pike or Lay-A.png"
+    },
+    {
+      "skillName": "Full in Tuck Out",
+      "elementGroup": "Dismount",
+      "letterScore": "C",
+      "score": 0.3,
+      "img_path": "Dismounts/Full in Tuck Out-C.png"
+    },
+    {
+      "skillName": "Triple Back",
+      "elementGroup": "Dismount",
+      "letterScore": "F",
+      "score": 0.6,
+      "img_path": "Dismounts/Triple Back-F.png"
+    }
+  ]
+}

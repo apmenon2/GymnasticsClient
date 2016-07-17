@@ -1,0 +1,29 @@
+Routine Requirements:
+
+5 Element groups
+
+1 - Kip and Swing
+2 - Swing to Handstand
+3 - Swing to Strength
+4 - Strength
+5 - Dismount
+
+All routines have 2 scoring parts to them:
+
+1) Execution (E) 10pts - Determined by judges at time of execution (plays no role in my program)
+2) Difficulty (D) - Determined by the skills that populate a gymnast's routine
+
+The D score is made up of many elements:
+
+- 0.5pts for each element group that is satisfied (up to 2.5pts)
+- score for the top 10 highest scoring elements in a routine (so that not all elements will count)
+	- Scores are split up into letters from A-F, which represent values fromt 0.1-0.6
+- stick bonus -> an extra .1 if the dismount is a B dismount, or a .2 if the dismount is a C or above dismount and stuck landing. 
+
+Deductions----------------------------
+
+Points will be deducted FROM THE D-SCORE for the following reasons:
+
+- The dismount is below a D level dismount (0.2 off from starting value)
+- If there are more than 3 strength elements in a row (groups 3/4), then all elements past the 3rd will be considered as not counted
+- If there are 3 strength elements in a row, then the gymnast must have a B level swing element (groups 1/2) before another strength sequence in order to count all values 
